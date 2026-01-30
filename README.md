@@ -1,2 +1,2 @@
-# Real-time-character-counter
+# Real-time-character-counter-JS
 here you can count the number of characters that you enter in the textarea.......
